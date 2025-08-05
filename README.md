@@ -1,7 +1,7 @@
 # 🛩️ Formulário de Cadastro de Associados - Aeroclube
 
 <p align="center">
-  <img src="assets/club.png" alt="Imagem do Formulário de Cadastro" width="400" />
+  <img src="assets/club.png" alt="Imagem do Formulário de Cadastro" width="600" />
 </p>
 
 Este projeto é um formulário simples feito em HTML e JavaScript para cadastro de associados do aeroclube, com cálculo automático da mensalidade baseado na quantidade de familiares informada.
@@ -14,7 +14,7 @@ Você pode ver e testar o formulário funcionando diretamente no link do GitHub 
 
 👉 [https://iamandaleao.github.io/aeroclub-member-registration/](https://iamandaleao.github.io/aeroclub-member-registration/)
 
-Ou clicando no botão **“View deployment”** (ou equivalente) no canto superior direito desta página do repositório.
+Ou clicando no link no canto superior direito desta página do repositório.
 
 ---
 
