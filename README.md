@@ -1,31 +1,38 @@
 # 🛩️ Formulário de Cadastro de Associados - Aeroclube
 
-Este projeto é um formulário simples feito em HTML e JavaScript, voltado para o cadastro de associados de um aeroclube. Ele realiza o cálculo automático da mensalidade com base na quantidade de familiares informada.
+<p align="center">
+  <img src="assets/club.png" alt="Imagem do Formulário de Cadastro" width="400" />
+</p>
+
+Este projeto é um formulário simples feito em HTML e JavaScript para cadastro de associados do aeroclube, com cálculo automático da mensalidade baseado na quantidade de familiares informada.
+
+---
+
+## 🔗 Acesse o projeto online
+
+Você pode ver e testar o formulário funcionando diretamente no link do GitHub Pages:
+
+👉 [https://iamandaleao.github.io/aeroclub-member-registration/](https://iamandaleao.github.io/aeroclub-member-registration/)
+
+Ou clicando no botão **“View deployment”** (ou equivalente) no canto superior direito desta página do repositório.
+
+---
 
 ## ✨ Funcionalidades
 
 - Campo **Nome**: aceita até 100 caracteres.
 - Campo **Email**: aceita apenas emails válidos e até 100 caracteres.
 - Campo **Quantidade de Familiares**: aceita apenas números entre 0 e 6.
-- Botão **Cadastrar**: ao ser clicado, dispara uma função em JavaScript que exibe uma mensagem de boas-vindas com o custo da mensalidade.
+- Botão **Cadastrar**: ao ser clicado, exibe uma mensagem com o custo da mensalidade.
 
 ## 💰 Cálculo da Mensalidade
 
-A mensalidade base é de R$150, acrescida de R$30 para cada familiar adicional.
+A mensalidade base é R$150, acrescida de R$30 para cada familiar adicional.
 
-**Exemplos:**
-- Com 0 familiares: R$150
-- Com 2 familiares: R$150 + (2 × R$30) = R$210
-- Com 5 familiares: R$150 + (5 × R$30) = R$300
-
-## 🧠 Lógica da Aplicação
-
-A lógica foi desenvolvida em JavaScript puro e inclui:
-- Coleta dos valores digitados nos campos do formulário.
-- Conversão e validação dos dados.
-- Cálculo do custo com base na fórmula.
-- Exibição de um alerta personalizado com nome e valor final da assinatura.
+Exemplos:
+- 0 familiares: R$150
+- 2 familiares: R$210
 
 ## 👩‍💻 Objetivo
 
-Este projeto faz parte dos meus estudos em desenvolvimento web. Ele demonstra habilidades básicas em HTML, validação de formulários, manipulação de DOM e lógica com JavaScript.
+Este projeto faz parte dos meus estudos em desenvolvimento web e demonstra habilidades básicas em validação de formulários e lógica em JavaScript.
