@@ -11,7 +11,7 @@ A proposta de criar um formulário de cadastro para associados de um aeroclube s
 
 ## 🔗 Acesse o projeto online  
 
-Você pode acessar e testar o formulário diretamente pelo GitHub Pages, no link disponível no canto superior direito do repositório ou <a href="https://iamandaleao.github.io/aeroclub-member-registration/" target="_blank" rel="noopener noreferrer">clicando aqui</a>.  
+Você pode acessar e testar o formulário diretamente pelo GitHub Pages, no link disponível no canto superior direito do repositório ou <a href="https://iamandaleao.github.io/aeroclub-member-registration/">clicando aqui</a>.  
 
 ---
 
